@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088689264059",
+    "project_id": "everything-firestore",
+    "storage_bucket": "everything-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088689264059:android:a78a077e8f3bc2bf0fe09e",
+        "android_client_info": {
+          "package_name": "com.example.everything_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088689264059-pf4evvkogpl3cak8hio6qlfud4ipf5s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb0sVtcfoGwlmGtdWABeW4BjsAwEGDQ08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088689264059-pf4evvkogpl3cak8hio6qlfud4ipf5s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
